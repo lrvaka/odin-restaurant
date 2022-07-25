@@ -1,0 +1,17 @@
+.contact {
+  flex: 1;
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  padding-bottom: 20vh;
+}
+
+.contact-item {
+  h3 {
+    font-size: 3rem;
+  }
+  p {
+    font-size: 2rem;
+    color: white;
+  }
+}
